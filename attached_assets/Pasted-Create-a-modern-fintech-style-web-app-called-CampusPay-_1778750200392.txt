@@ -1,0 +1,99 @@
+Create a modern fintech-style web app called CampusPay.
+
+Tech stack:
+
+* Next.js 14
+* TypeScript
+* Tailwind CSS
+* App Router
+* Responsive design
+
+IMPORTANT:
+
+* Build everything INSIDE this current project workspace.
+* Do NOT create another project or nested app.
+* Do NOT restart or replace the workspace.
+* Make sure clicking "Run" starts the app correctly.
+
+Design style:
+
+* Premium fintech aesthetic
+* Inspired by Stripe, Linear, Apple, and Ramp
+* Black, white, and gray color palette
+* Minimal UI with clean spacing
+* Smooth animations and glassmorphism effects
+* Modern typography
+* Mobile responsive
+
+Pages to create:
+
+1. Landing page
+2. Vendor dashboard
+3. Student payment page
+4. Payment success page
+5. Transaction history page
+
+Landing page requirements:
+
+* Hero section with headline:
+  "CampusPay — Fast QR Payments for Students & Vendors"
+* Modern navbar
+* Feature cards
+* CTA buttons
+* Clean footer
+* Animated gradient background
+* Premium startup feel
+
+Vendor dashboard requirements:
+
+* Input field for payment amount
+* Generate QR code button
+* Display a working QR code
+* Payment request card UI
+* Recent transaction list
+* Wallet balance UI
+* Analytics cards
+
+Student payment page:
+
+* QR scanner/payment simulation UI
+* Pay button
+* Loading animation
+* Payment confirmation modal
+
+Payment success page:
+
+* Green success check animation
+* Transaction details
+* Return to dashboard button
+
+Transaction history page:
+
+* Modern table UI
+* Payment status badges
+* Search and filter section
+
+Functionality:
+
+* Use fake/demo payment flow for now
+* Generate QR codes using a React QR code library
+* Create realistic mock transaction data
+* Include fake wallet connect button UI
+* Add loading skeletons and transitions
+
+Project requirements:
+
+* Proper folder structure
+* Clean reusable components
+* No broken imports
+* No TypeScript errors
+* No missing dependencies
+* Include all required packages automatically
+* Ensure app runs successfully when clicking "Run"
+
+At the end:
+
+* Show full file structure
+* Ensure homepage loads correctly
+* Ensure there are no blank pages
+* Ensure there are no build errors
